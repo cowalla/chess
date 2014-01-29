@@ -1,8 +1,3 @@
-Chess
-=====
-
-A chess game created by Jack Noble and Connor Wallace
-
 Introduction
 =============
 This is a simple two-player chess game. In its current form, it involves the basic movement
